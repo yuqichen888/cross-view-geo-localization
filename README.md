@@ -8,7 +8,7 @@ This repository list accepted papers related to cross-view geo-localization. Ple
 ### 2024
 #### CVPR 2024
 
-- [Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization](https://arxiv.org/abs/2403.14198) - Guopeng Li, Ming Qian, Gui-Song Xia, **CVPR 2024**.
+- [Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization](https://arxiv.org/abs/2403.14198) - Guopeng Li, Ming Qian, Gui-Song Xia, **CVPR 2024**. [[code]](https://github.com/liguopeng0923/UCVGL)
 
 #### ECCV 2024
 - [Benchmarking the Robustness of Cross-view Geo-localization Models](https://eccv.ecva.net/virtual/2024/poster/2096)] - Qingwang Zhang · Yingying Zhu, **ECCV2024**. [[code]](https://github.com/zqwlearning/CrossViewRobustness-Code)
