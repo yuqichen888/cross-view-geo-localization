@@ -24,7 +24,7 @@ the conference paper, the journal paper,and a separate section for the datasets,
 
 ### 2023
 - [Global and Cross-view Feature Aggregation](https://arxiv.org/abs/2305.06799) - Weiqing Yan, et al. **CVPR 2023**.
-- [Uncertainty-aware Vision-based Metric Cross-view Geolocalization](https://arxiv.org/abs/2211.12145) - Florian Fervers, et al. **CVPR 2023**.[[project page]](https://fferflo.github.io/projects/vismetcvgl23/#code)
+- [Uncertainty-aware Vision-based Metric Cross-view Geolocalization](https://arxiv.org/abs/2211.12145) - Florian Fervers, et al. **CVPR 2023**.[[project]](https://fferflo.github.io/projects/vismetcvgl23/#code)
 - [Fine-Grained Cross-View Geo-Localization Using a Correlation-Aware Homography Estimator](https://neurips.cc/virtual/2023/poster/71077) - Xiaolong Wang, et al.  **NIPS 2023**. [[code]](https://github.com/xlwangDev/HC-Net)
 - [GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization](https://neurips.cc/virtual/2023/poster/72144) - Vicente Vivanco Cepeda, et al.**NIPS 2023**.[[code]](https://github.com/VicenteVivan/geo-clip)
 - [Sample4Geo: Hard Negative Sampling For Cross-View Geo-Localisation](https://arxiv.org/abs/2303.11851) - Fabian Deuser, et al. **ICCV 2023**.[[supp]](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Deuser_Sample4Geo_Hard_Negative_ICCV_2023_supplemental.pdf)
