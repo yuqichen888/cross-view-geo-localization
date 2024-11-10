@@ -46,12 +46,12 @@ the conference paper, the journal paper,and a separate section for the datasets,
 ## Datasets
 
 ```markdown
-- [Dataset Name](link): paper name(link), **Conference Year**.
+- [Dataset Name]: [paper name](link), **Conference Year**.[link for dataset]
 ```
-- [CVUSA](https://mvrl.cse.wustl.edu/datasets/cvusa/): [Wide-Area Image Geolocalization with Aerial Reference Imagery](https://arxiv.org/abs/1510.03743),	**ICCV 2015**
-- [CVACT](https://github.com/Liumouliu/OriCNN)	[Lending Orientation to Neural Networks for Cross-view Geo-localization](https://arxiv.org/abs/1903.12351),	**CVPR 2019**
-- [U-1652](https://github.com/layumi/University1652-Baseline)	[University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization](https://arxiv.org/abs/2002.12186),	**ACM MM 2020**
-- [VIGOR](https://github.com/Jeff-Zilence/VIGOR)	[Cross-View Image Geo-localization beyond One-to-one Retrieval](https://arxiv.org/abs/2011.12172),	**CVPR 2021**
-- [GAMa](https://github.com/svyas23/GAMa)	[GAMa: Cross-view Video Geo-localization](https://arxiv.org/abs/2207.02431),**ECCV 2022**
-- [SeqGeo](https://github.com/zxh009123/SeqGeo)	[Cross-View Image Sequence Geo-localization](https://arxiv.org/abs/2210.14295),	**WACV 2022**
-- [G-1652](https://github.com/MultimodalGeo/GeoText-1652)	[Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://arxiv.org/abs/2311.12751),	**ECCV 2024**
+- CVUSA: [Wide-Area Image Geolocalization with Aerial Reference Imagery](https://arxiv.org/abs/1510.03743),	**ICCV 2015**. [[link]](https://mvrl.cse.wustl.edu/datasets/cvusa/)
+- CVACT: [Lending Orientation to Neural Networks for Cross-view Geo-localization](https://arxiv.org/abs/1903.12351),	**CVPR 2019**. [[link]](https://github.com/Liumouliu/OriCNN)
+- U-1652: [University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization](https://arxiv.org/abs/2002.12186),	**ACM MM 2020**. [[link]](https://github.com/layumi/University1652-Baseline)
+- VIGOR: [Cross-View Image Geo-localization beyond One-to-one Retrieval](https://arxiv.org/abs/2011.12172),	**CVPR 2021**. [[link]](https://github.com/Jeff-Zilence/VIGOR)
+- GAMa: [GAMa: Cross-view Video Geo-localization](https://arxiv.org/abs/2207.02431),**ECCV 2022**. [[link]](https://github.com/svyas23/GAMa)
+- SeqGeo: [Cross-View Image Sequence Geo-localization](https://arxiv.org/abs/2210.14295),	**WACV 2022**. [[link]](https://github.com/zxh009123/SeqGeo)
+- G-1652: [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://arxiv.org/abs/2311.12751),	**ECCV 2024**. [[link]](https://github.com/MultimodalGeo/GeoText-1652)
