@@ -16,7 +16,7 @@ the conference paper, the journal paper,and a separate section for the datasets,
 
 - [Benchmarking the Robustness of Cross-view Geo-localization Models](https://eccv.ecva.net/virtual/2024/poster/2096) - Qingwang Zhang, et al. **ECCV 2024**. [[code]](https://github.com/zqwlearning/CrossViewRobustness-Code)
 - [ConGeo: Robust Cross-view Geo-localization across Ground View Variations](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02187.pdf) - Li Mi, et al. **ECCV 2024**. [[code]](https://github.com/eceo-epfl/ConGeo)
-- [Cross-Attention Between Satellite and Ground Views for Enhanced Fine-Grained Robot Geo-Localization](https://openaccess.thecvf.com/content/WACV2024/papers/Yuan_Cross-Attention_Between_Satellite_and_Ground_Views_for_Enhanced_Fine-Grained_Robot_WACV_2024_paper.pdf) - Dong Yuan, et al. **WACV 2024**.[[code]](https://github. com/UQ-DongYuan/CVLocationTrans)
+- [Cross-Attention Between Satellite and Ground Views for Enhanced Fine-Grained Robot Geo-Localization](https://openaccess.thecvf.com/content/WACV2024/papers/Yuan_Cross-Attention_Between_Satellite_and_Ground_Views_for_Enhanced_Fine-Grained_Robot_WACV_2024_paper.pdf) - Dong Yuan, et al. **WACV 2024**. [[code]](https://github.com/UQ-DongYuan/CVLocationTrans)
 
 
 
