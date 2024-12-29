@@ -75,7 +75,7 @@ the conference paper, the journal paper,and a separate section for the datasets,
 - [Image Geo-Localization Based on MultipleNearest Neighbor Feature Matching UsingGeneralized Graphs](https://ieeexplore.ieee.org/abstract/document/6710175?casa_token=NzjzvIAP87gAAAAA:EeE_s28zQOrwcyfg0uxptGKTlNO7GRgtL770nmQF6U5YNgXF0XTpIUO5Ic9EsdoIXOrcGQlw) - Amir Roshan Zamir, et al. **TPAMI 2024**.
 - [Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching](https://arxiv.org/pdf/2203.14148) - Yujiao Shi, et al. **TPAMI 2023**.
 - [Large-Scale Image Geo-Localization Using Dominant Sets](https://arxiv.org/pdf/1702.01238) - Eyasu Zemene, et al. **TPAMI 2019**.
-#### International Journal of Computer Vision(IJCV)
+#### IJCV
 - [Image and Object Geo-Localization](https://link.springer.com/article/10.1007/s11263-023-01942-3) - Daniel Wilson, et al. **IJCV 2023**
 - [Image-Based Geo-Localization Using Satellite Imagery](https://link.springer.com/article/10.1007/s11263-019-01186-0) - Sixing Hu, et al. **IJCV 2019**`
 ## Datasets
