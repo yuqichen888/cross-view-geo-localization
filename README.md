@@ -1,13 +1,5 @@
-# cross-view-geo-localization
-## Contributing
-This repository list accepted papers related to cross-view geo-localization. Please feel free to send me [pull requests](https://github.com/yuqichen888/cross-view-geo-localization/pulls) or email (yuqi.chen@uvm.edu) to add links.
-```markdown
-The main structure of this repository consists of three sections:
-the conference paper, the journal paper,and a separate section for the datasets, each described individually.
-- Conference (CVPR,ECCV/ICCV,NIPS,WACV)
-- Journal 
-- Datasets
-```
+## Everything about Cross-view Geo-localization
+
 ## Table of Contents
   * [Table of Contents](#table-of-contents)
   * [Conference](#Conference)
@@ -90,3 +82,13 @@ the conference paper, the journal paper,and a separate section for the datasets,
 - GAMa: [GAMa: Cross-view Video Geo-localization](https://arxiv.org/abs/2207.02431),**ECCV 2022**. [[link]](https://github.com/svyas23/GAMa)
 - SeqGeo: [Cross-View Image Sequence Geo-localization](https://arxiv.org/abs/2210.14295),	**WACV 2022**. [[link]](https://github.com/zxh009123/SeqGeo)
 - GeoText-1652: [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://arxiv.org/abs/2311.12751),	**ECCV 2024**. [[link]](https://github.com/MultimodalGeo/GeoText-1652)
+
+## Contributing
+This repository list accepted papers related to cross-view geo-localization. Please feel free to send me [pull requests](https://github.com/yuqichen888/cross-view-geo-localization/pulls) or email (yuqi.chen@uvm.edu) to add links.
+```markdown
+The main structure of this repository consists of three sections:
+the conference paper, the journal paper,and a separate section for the datasets, each described individually.
+- Conference (CVPR,ECCV/ICCV,NIPS,WACV)
+- Journal 
+- Datasets
+```
