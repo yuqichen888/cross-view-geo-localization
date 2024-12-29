@@ -22,6 +22,9 @@ the conference paper, the journal paper,and a separate section for the datasets,
         - [WACV 2023](#WACV-2024)
       
      * [Prior](#Prior)
+  * [Journal](#Journal)
+     * [Transactions on Pattern Analysis and Machine Intelligence(TPAMI)](#TPAMI)
+     * [International Journal of Computer Vision(IJCV)](#IJCV)
 ## Conference
 ### 2024
 #### CVPR 2024
@@ -67,10 +70,14 @@ the conference paper, the journal paper,and a separate section for the datasets,
 - L2LTR [Cross-view Geo-localization with Layer-to-Layer Transformer](https://papers.nips.cc/paper_files/paper/2021/file/f31b20466ae89669f9741e047487eb37-Paper.pdf) - Hongji Yang, et al.	**NIPS 2021**.[[code]](https://github.com/yanghongji2007/cross_view_localization_L2LTR)																					
 ## Journal
 
-#### TPMAI
-
-#### IJCV
-
+#### TPAMI
+- [GeoDTR+: Toward Generic Cross-View Geolocalization via Geometric Disentanglement](https://arxiv.org/pdf/2308.09624) - Xiaohan Zhang, et al. **TPAMI 2024**. [[code]](https://gitlab.com/vail-uvm/geodtr_plus)
+- [Image Geo-Localization Based on MultipleNearest Neighbor Feature Matching UsingGeneralized Graphs](https://ieeexplore.ieee.org/abstract/document/6710175?casa_token=NzjzvIAP87gAAAAA:EeE_s28zQOrwcyfg0uxptGKTlNO7GRgtL770nmQF6U5YNgXF0XTpIUO5Ic9EsdoIXOrcGQlw) - Amir Roshan Zamir, et al. **TPAMI 2024**.
+- [Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching](https://arxiv.org/pdf/2203.14148) - Yujiao Shi, et al. **TPAMI 2023**.
+- [Large-Scale Image Geo-Localization Using Dominant Sets](https://arxiv.org/pdf/1702.01238) - Eyasu Zemene, et al. **TPAMI 2019**.
+#### International Journal of Computer Vision(IJCV)
+- [Image and Object Geo-Localization](https://link.springer.com/article/10.1007/s11263-023-01942-3) - Daniel Wilson, et al. **IJCV 2023**
+- [Image-Based Geo-Localization Using Satellite Imagery](https://link.springer.com/article/10.1007/s11263-019-01186-0) - Sixing Hu, et al. **IJCV 2019**`
 ## Datasets
 
 ```markdown
@@ -82,4 +89,4 @@ the conference paper, the journal paper,and a separate section for the datasets,
 - VIGOR: [Cross-View Image Geo-localization beyond One-to-one Retrieval](https://arxiv.org/abs/2011.12172),	**CVPR 2021**. [[link]](https://github.com/Jeff-Zilence/VIGOR)
 - GAMa: [GAMa: Cross-view Video Geo-localization](https://arxiv.org/abs/2207.02431),**ECCV 2022**. [[link]](https://github.com/svyas23/GAMa)
 - SeqGeo: [Cross-View Image Sequence Geo-localization](https://arxiv.org/abs/2210.14295),	**WACV 2022**. [[link]](https://github.com/zxh009123/SeqGeo)
-- G-1652: [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://arxiv.org/abs/2311.12751),	**ECCV 2024**. [[link]](https://github.com/MultimodalGeo/GeoText-1652)
+- GeoText-1652: [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://arxiv.org/abs/2311.12751),	**ECCV 2024**. [[link]](https://github.com/MultimodalGeo/GeoText-1652)
