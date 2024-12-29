@@ -26,11 +26,20 @@ the conference paper, the journal paper,and a separate section for the datasets,
 ### 2024
 #### CVPR 2024
 - [Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization](https://arxiv.org/abs/2403.14198) - Guopeng Li, et al. **CVPR 2024**. [[code]](https://github.com/liguopeng0923/UCVGL)
+- [View From Above: Orthogonal-View aware Cross-view Localization](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_View_From_Above_Orthogonal-View_aware_Cross-view_Localization_CVPR_2024_paper.pdf) - Shan Wang, et al. **CVPR 2024**. [[code]](https://github.com/ShanWang-Shan/ViewFromAbove)
+- [SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation](https://arxiv.org/pdf/2404.02638) - Junyan Ye, et al. **CVPR 2024**.[[code]](https://github.com/yejy53/SG-BEV)
 #### ECCV 2024
+- [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://eccv.ecva.net/virtual/2024/poster/746) - Meng Chu, et al. **ECCV 2024**. [[code]](https://multimodalgeo.github.io/GeoText/)
 - [Benchmarking the Robustness of Cross-view Geo-localization Models](https://eccv.ecva.net/virtual/2024/poster/2096) - Qingwang Zhang, et al. **ECCV 2024**. [[code]](https://github.com/zqwlearning/CrossViewRobustness-Code)
 - [ConGeo: Robust Cross-view Geo-localization across Ground View Variations](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02187.pdf) - Li Mi, et al. **ECCV 2024**. [[code]](https://github.com/eceo-epfl/ConGeo)
+- [Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network](https://eccv.ecva.net/virtual/2024/poster/234) - ye junyan, et al. ** ECCV 2024**. [[code]](https://github.com/yejy53/EP-BEV)
+- [Geospecific View Generation - Geometry-Context Aware High-resolution Ground View Inference from Satellite Views] - Ningli Xu, Rongjun Qin. ** ECCV 2024**. [[code]](https://gdaosu.github.io/geocontext/)
+
 #### WACV 2024
 - [Cross-Attention Between Satellite and Ground Views for Enhanced Fine-Grained Robot Geo-Localization](https://openaccess.thecvf.com/content/WACV2024/papers/Yuan_Cross-Attention_Between_Satellite_and_Ground_Views_for_Enhanced_Fine-Grained_Robot_WACV_2024_paper.pdf) - Dong Yuan, et al. **WACV 2024**. [[code]](https://github.com/UQ-DongYuan/CVLocationTrans)
+- [ArcGeo: Localizing Limited Field-of-View Images using Cross-view Matching](https://openaccess.thecvf.com/content/WACV2024/papers/Shugaev_ArcGeo_Localizing_Limited_Field-of-View_Images_Using_Cross-View_Matching_WACV_2024_paper.pdf) - Maxim Shugaev, et al. **WACV 2024**.
+- [Cross-Attention Between Satellite and Ground Views for Enhanced Fine-Grained Robot Geo-Localization](https://openaccess.thecvf.com/content/WACV2024/papers/Yuan_Cross-Attention_Between_Satellite_and_Ground_Views_for_Enhanced_Fine-Grained_Robot_WACV_2024_paper.pdf) - Dong Yuan, et al. **WACV 2024**.
+
 
 
 
