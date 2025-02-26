@@ -83,7 +83,8 @@
 - SeqGeo: [Cross-View Image Sequence Geo-localization](https://arxiv.org/abs/2210.14295),	**WACV 2022**. [[link]](https://github.com/zxh009123/SeqGeo)
 - GeoText-1652: [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://arxiv.org/abs/2311.12751),	**ECCV 2024**. [[link]](https://github.com/MultimodalGeo/GeoText-1652)
 
-## If you find this repo is useful for your research please consider cite the following paper.
+## Citation
+If you find this repo useful for your research， please consider citing the following paper.
 ```markdown
 @article{wilson2024image,
   title={Image and object geo-localization},
