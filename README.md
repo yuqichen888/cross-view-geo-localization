@@ -84,7 +84,7 @@
 - GeoText-1652: [Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching](https://arxiv.org/abs/2311.12751),	**ECCV 2024**. [[link]](https://github.com/MultimodalGeo/GeoText-1652)
 
 ## If you find this repo is useful for your research please consider cite the following paper.
-
+```markdown
 @article{wilson2024image,
   title={Image and object geo-localization},
   author={Wilson, Daniel and Zhang, Xiaohan and Sultani, Waqas and Wshah, Safwan},
@@ -95,6 +95,7 @@
   year={2024},
   publisher={Springer}
 }
+```
 ## Contributing
 This repository list accepted papers related to cross-view geo-localization. Please feel free to send me [pull requests](https://github.com/yuqichen888/cross-view-geo-localization/pulls) or email (yuqi.chen@uvm.edu) to add links.
 ```markdown
